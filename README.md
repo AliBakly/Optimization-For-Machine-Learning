@@ -1,6 +1,6 @@
 # Optimization For Machine Learning
 
-This repository contains implementations and analyses of optimization algorithms studied in FRTN50 course, focusing on theoretical guarantees and empirical performance.
+This repository contains implementations and analyses of some optimization algorithms, focusing on theoretical guarantees and empirical performance.
 
 ## Contents
 
