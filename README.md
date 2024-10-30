@@ -4,7 +4,7 @@ This repository contains implementations and analyses of some optimization algor
 
 ## Contents
 
-1. `lasso-optimization.ipynb` (formerly FRTN50_WEEK_5)
+1. `lasso-optimization.ipynb`
    - Study of the LASSO optimization problem using two methods:
      - FISTA (Fast Iterative Shrinkage-Thresholding Algorithm) with constant stepsize
      - Adaptive Proximal Gradient Method
@@ -12,13 +12,13 @@ This repository contains implementations and analyses of some optimization algor
      - Beck & Teboulle (2009) "A Fast Iterative Shrinkage-Thresholding Algorithm for Linear Inverse Problems"
      - Malitsky & Mishchenko (2024) "Adaptive Proximal Gradient Method for Convex Optimization"
 
-2. `power-method.ipynb` (formerly FRTN50_WEEK_6)
+2. `power-method.ipynb`
    - Implementation of Example 13.11 from Beck (2017)
    - Study of maximization problem with quadratic objective and unit ball constraint
    - Analysis using conditional gradient method (Power Method)
    - Based on Beck (2017) "First-Order Methods in Optimization"
 
-3. `mirror-descent.ipynb` (formerly FRTN50_WEEK_7)
+3. `mirror-descent.ipynb`
    - Implementation of Mirror Descent algorithm for minimizing maximum absolute value
    - Study of optimization over unit simplex using Bregman divergence
    - Based on Beck (2017) "First-Order Methods in Optimization"
